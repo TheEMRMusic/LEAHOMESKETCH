@@ -51,7 +51,7 @@ function draw() {
     strokeWeight(2.5);
     textSize(windowWidth/12);
     textAlign(CENTER);
-    text("a d m i n   c o n s o l e", (windowWidth / 2), ((windowHeight/1.6)));
+    text("d a s h b o a r d", (windowWidth / 2), ((windowHeight/1.6)));
     stroke(234, 114, 140);
     strokeWeight(2);
     textSize(windowWidth/20);
